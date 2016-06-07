@@ -17,6 +17,10 @@
     "visualisations"
   ],
   "author": "Kartoteket AS",
+  "contributors": [
+    "Bård Røtzer <bard@kartoteket.as>",
+    "Svale Fossåskaret <svale@kartoteket.as>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kartoteket/d3by5-transitions/issues"
