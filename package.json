@@ -1,0 +1,29 @@
+{
+  "name": "d3by5-transitions",
+  "version": "0.0.1",
+  "description": "Utility class for d3by5 charts",
+  "main": "d3by5-transitions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartoteket/d3by5-transitions.git"
+  },
+  "keywords": [
+    "transitions",
+    "charts",
+    "d3",
+    "visualisations"
+  ],
+  "author": "Kartoteket AS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartoteket/d3by5-transitions/issues"
+  },
+  "homepage": "https://github.com/kartoteket/d3by5-transitions#readme",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "underscore": "^1.8.3"
+  }
+}
