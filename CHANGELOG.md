@@ -10,6 +10,7 @@ This project adheres (well, maybe not quite) to [Semantic Versioning](http://sem
 - Added README with initial API definition
 - Added CHANGELOG
 - Added initial code
+- Added UMD loading
 
 
 [//]: ##############################################

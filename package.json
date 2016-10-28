@@ -2,7 +2,7 @@
   "name": "d3by5-transitions",
   "version": "0.0.1",
   "description": "Utility class for d3by5 charts",
-  "main": "d3by5-transitions.js",
+  "main": "transitions.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
